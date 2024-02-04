@@ -1,7 +1,5 @@
 <h1>Hi, I'm Jorge!<h1>
-
-  
-<h2>👨‍💻 Cybesecurity & Coding Projects:</h2>
+<h2> 👨‍💻 Cybesecurity & Coding Projects:</h2>
 
 - <b>Full Stack Web App</b>
   - [name](link) </b></i>
