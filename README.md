@@ -4,7 +4,7 @@
 - <b>Full Stack Web App</b>
   - [name](link) </b></i>
 - <b>PowerShell</b>
-  - [Name of the project](Link)
+  - [Windows Active Directory and User Access Controls](Link)
 
 - <b>JAVA </b>
   - [name)](link)
