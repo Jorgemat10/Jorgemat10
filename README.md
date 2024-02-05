@@ -4,7 +4,7 @@
 - <b>Full Stack Web App</b>
   - [name](link) </b></i>
 - <b>PowerShell</b>
-  - [Windows Active Directory and User Access Controls](Link)
+  - [Windows Active Directory and User Access Controls](https://github.com/Jorgemat10/ActiveDirectoryLab/tree/main)
 
 - <b>JAVA </b>
   - [name)](link)
