@@ -14,7 +14,7 @@
 
 <h2> Certs</h2>
 
-- [Name ](link)
+- [CompTIA A+ ](link)
 - [Name](link)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
