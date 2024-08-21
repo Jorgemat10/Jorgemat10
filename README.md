@@ -15,12 +15,10 @@
   - [Name)](Link)
   
 - <b> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   JavaScript</b>
-  - [Password-checker](Link)
+  - [Password-checker](https://github.com/Jorgemat10/password-checker.git)
  
   
 ## 🎓 Certifications 
-[<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />](link)
-[<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />](link)
 CompTIA A+
 CompTIA Network+
 CompTIA Security+
