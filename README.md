@@ -21,16 +21,7 @@
 ## 🎓 Certifications 
 Here are some of the certifications I've earned:
 
-<img src="certifications/comptia_a+.png" alt="CompTIA A+" width="100"/>
-<img src="certifications/comptia_network+.png" alt="CompTIA Network+" width="100"/>
-<img src="certifications/comptia_security+.png" alt="CompTIA Security+" width="100"/>
-<img src="Jorgemat10/ITIL4.png.png" alt="ITIL 4 Foundation" width="100"/>
-
-
-CompTIA A+
-CompTIA Network+
-CompTIA Security+
-ITIL 4 Foundation
+<img src="thumb_CompTIA_A_+.png" alt="CompTIA A+" width="100"/> <img src="network+.png" alt="CompTIA Network+" width="100"/> <img src="security+.png" alt="CompTIA Security+" width="100"/> <img src="ITIL4.png" alt="ITIL 4 Foundation" width="100"/>
 
 <p align="left">
 </p>
