@@ -13,6 +13,9 @@
 
 - <b> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   Python</b>
   - [Integer_to_binary](https://github.com/Jorgemat10/Integer_to_binary.git)
+  - [Perimeter & Area](https://github.com/Jorgemat10/Perimeter_Area.git)
+ 
+  - 
   
 - <b> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   JavaScript</b>
   - [Password-checker](https://github.com/Jorgemat10/password-checker.git)
