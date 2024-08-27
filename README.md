@@ -1,12 +1,12 @@
 <h1> Hi there, I'm Jorge 👋 <h1>
 <h2> 👨‍💻 Cybesecurity & Coding Projects:</h2>
 
-- <b>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> Custom Built Website  </b>
+- <b>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </b>
   - [JMenterprises](https://jmenterprises.netlify.app/) </b></i>
   My personal website, built from scratch, where I showcase my tutorials, labs, and other IT-related projects.
   A series of hands-on labs demonstrating various cybersecurity techniques and tools, from configuring SOHO routers to running Nmap scans.
-
- - [Calculator_GUI](https://github.com/Jorgemat10/Calculator_GUI.git)
+  
+  - [Calculator_GUI](https://github.com/Jorgemat10/Calculator_GUI.git)
   
 - <b>PowerShell</b>
   - [Windows Active Directory and User Access Controls](https://github.com/Jorgemat10/ActiveDirectoryLab/tree/main)
