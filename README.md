@@ -34,7 +34,7 @@
 ## 🎓 Certifications 
 Here are some of the certifications I've earned:
 
-<img src="thumb_CompTIA_A_+.png" alt="CompTIA A+" width="100"/> <img src="network+.png" alt="CompTIA Network+" width="100"/> <img src="security+.png" alt="CompTIA Security+" width="100"/> <img src="ITIL4.png" alt="ITIL 4 Foundation" width="100"/> <img src="Comptia_CySA_2Bce.png" alt="CYSA" width="100"/> <img src="LPI_Essentials.png" alt="Linux" width="100"/>
+<img src="thumb_CompTIA_A_+.png" alt="CompTIA A+" width="100"/> <img src="network+.png" alt="CompTIA Network+" width="100"/> <img src="security+.png" alt="CompTIA Security+" width="100"/> <img src="ITIL4.png" alt="ITIL 4 Foundation" width="100"/> <img src="Comptia_CySA_2Bce.png" alt="CYSA" width="100"/> <img src="LPI_Essentials.png" alt="Linux" width="100"/> <img src="SSCP.png" alt="SSCP" width="100"/>
 
 <p align="left">
 </p>
